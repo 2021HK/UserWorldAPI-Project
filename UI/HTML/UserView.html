@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>View User</title>
+  <link rel="stylesheet" href="../CSS/Style.css" />
+  <script src="../JS/MessageBox.js" defer></script>
+  <script src="../JS/UserView.js" defer></script>
+</head>
+<body>
+  <div class="Body_Container">
+    <div class="main_conatiner">
+      <h2>User Details</h2>
+      <div class="form-container" id="userDetails">
+        <div class="form-section">
+          <div class="group"><label>Full Name:</label><input disabled id="fullName" /></div>
+          <div class="group"><label>Email:</label><input disabled id="email" /></div>
+          <div class="group"><label>Username:</label><input disabled id="username" /></div>
+          <div class="group"><label>Date of Birth:</label><input type="date" disabled id="dob" /></div>
+          <div class="group"><label>Contact:</label><input disabled id="contact" /></div>
+          <div class="group"><label>Address:</label><input disabled id="address" /></div>
+          <div class="group"><label>Nationality:</label><input disabled id="nationality" /></div>
+          <div class="group"><label>Country:</label><input disabled id="country" /></div>
+        </div>
+
+        <hr class="vertical-hr" />
+
+        <div class="form-section">
+              <div class="group"><label>State:</label><input id="state"/></div>
+          <div class="group"><label>City:</label><input disabled id="city" /></div>
+
+          <div class="group">
+            <label>Gender:</label>
+            <div class="radio-group">
+              <label><input type="radio" name="gender" id="genderMale" disabled /> Male</label>
+              <label><input type="radio" name="gender" id="genderFemale" disabled /> Female</label>
+              <label><input type="radio" name="gender" id="genderOther" disabled /> Other</label>
+            </div>
+          </div>
+
+          <div class="group"><label>Profession:</label><input disabled id="profession" /></div>
+
+          <div class="group">
+              <label>Languages Known:</label>
+              <div class="checkbox-group">
+                <label><input type="checkbox" id="langEnglish" readonly /> English</label>
+                <label><input type="checkbox" id="langHindi" readonly /> Hindi</label>
+                <label><input type="checkbox" id="langMarathi" readonly /> Marathi</label>
+              </div>
+            </div>
+
+          <div class="group">
+            <label>Photo:</label>
+            <img id="photo" src="../Multimedia/sample-user.jpg" height="100" alt="User Photo" />
+          </div>
+
+          <div class="group">
+            <label>About:</label>
+            <textarea rows="6" disabled id="about"></textarea>
+          </div>
+        </div>
+      </div>
+        
+      <div class="BacktoUserData">
+        <a href="./UserData.html">Back To User Data</a>
+      </div>
+        
+      <br>
+      <!-- <a href="./UserData.html">Back To User Data</a> -->
+    </div>
+  </div>
+</body>
+</html>

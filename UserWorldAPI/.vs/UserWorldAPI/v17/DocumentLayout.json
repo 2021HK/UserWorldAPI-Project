@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\database\\dboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:database\\dboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\userworldapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:userworldapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|d:\\projects .net\\userworldapi project\\userworldapi\\model\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D90FE6-C06C-42F5-AE75-FCDA3B657776}|UserWorldAPI.csproj|solutionrelative:model\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBOperations.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\DataBase\\DBOperations.cs",
+              "RelativeDocumentMoniker": "DataBase\\DBOperations.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\DataBase\\DBOperations.cs",
+              "RelativeToolTip": "DataBase\\DBOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:29:27.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Controller\\UserController.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Controller\\UserController.cs",
+              "RelativeToolTip": "Controller\\UserController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswHkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T06:44:15.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserWorldAPI.http",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\UserWorldAPI.http",
+              "RelativeDocumentMoniker": "UserWorldAPI.http",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\UserWorldAPI.http",
+              "RelativeToolTip": "UserWorldAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-14T11:03:53.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T11:03:35.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T08:25:08.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Model\\UserDetails.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\UserDetails.cs",
+              "RelativeToolTip": "Model\\UserDetails.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:45:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Nationality.cs",
+              "RelativeDocumentMoniker": "Model\\Nationality.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Nationality.cs",
+              "RelativeToolTip": "Model\\Nationality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:30:43.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:09:25.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:00:42.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T11:03:38.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Language.cs",
+              "RelativeDocumentMoniker": "Model\\Language.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Language.cs",
+              "RelativeToolTip": "Model\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:35:15.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\City.cs",
+              "RelativeDocumentMoniker": "Model\\City.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\City.cs",
+              "RelativeToolTip": "Model\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:33:20.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\State.cs",
+              "RelativeDocumentMoniker": "Model\\State.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\State.cs",
+              "RelativeToolTip": "Model\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:31:33.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "Model\\Country.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Country.cs",
+              "RelativeToolTip": "Model\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:31:11.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Gender.cs",
+              "RelativeDocumentMoniker": "Model\\Gender.cs",
+              "ToolTip": "D:\\Projects .NET\\UserWorldAPI PROJECT\\UserWorldAPI\\Model\\Gender.cs",
+              "RelativeToolTip": "Model\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:21:27.471Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

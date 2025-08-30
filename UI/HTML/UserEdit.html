@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name='keyword' content='User_Managment_1'/>
+    <link rel="stylesheet" href="../CSS/Style.css">
+    <!-- <script src="../JS/validation.js" defer></script> -->
+    <script src="../JS/UserEdit.js" defer></script>
+    <script src="../JS/MessageBox.js" defer></script>
+    <title>User_Managment_1</title>
+</head>
+
+<body>
+    <div class="Body_Container">
+        <!-- HEADER -->
+        <div class="Header">
+            <div class="Logo_Box">
+                <span class="logo">
+                    <a href="Index.html"><img src="../Multimedia/13.png" alt="User_Managemnt1_Logo"></a>                    
+                </span>
+                <span class="Logo_Text"> 
+                    <h3 style="color: rgb(9, 164, 225)">User<span style="color: rgb(229, 59, 7)">M</span>anagement</h3>
+                </span>
+            </div>
+            <div class="Menu">
+                <ul class="listMenu">
+                    <li><b><a href="Index.html">Home</a></b></li>
+                    <li><b><a href="Registration.html">Registration</a></b></li>
+                    <li><b><a href="Login.html">Login</a></b></li>
+                    <li><b><a href="UserData.html">User Data</a></b></li>
+                    <li><b><a href="AboutUs.html">About Us</a></b></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- MAIN -->
+        <div class="main_conatiner">
+            <h2>Edit User Details</h2>
+            <form id="EditUserDetail_form">
+                <div class="form-container">
+                    <!-- LEFT -->
+                    <div class="form-section">
+                        <div class="group">
+                            <label for="fullname">Full Name:</label>
+                            <input type="text" id="fullname" name="fullname">
+                            <label class="error" id="error-fullname">Full name is required</label>
+                        </div>
+                
+                        <div class="group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email">
+                            <label class="error" id="error-email">E-mail is required</label>
+                        </div>
+
+                        <div class="group">
+                            <label for="username">Username</label>
+                            <input type="text" id="username" name="username">
+                            <label class="error" id="error-username">Username is required</label>
+                        </div>
+                
+                        <div class="group">
+                            <label for="password">Password</label>
+                            <input type="password" id="password" name="password">
+                            <label class="error" id="error-password">Password is required</label>
+                        </div>
+
+                        <div class="group">
+                            <label for="dob">Date of Birth</label>
+                            <input type="date" id="dob" name="dob">
+                            <label class="error" id="error-dob">Date of birth is required</label>
+                        </div>
+
+                        <div class="group">
+                            <label for="contact">Contact Number</label>
+                            <input type="tel" id="contact" name="contact" pattern="[0-9]{10}" maxlength="10" placeholder="Enter 10-digit number">
+                            <label class="error" id="error-contact_number">Contact number is required</label>
+                        </div>
+
+                        <div class="group">
+                            <label for="address">Address</label>
+                            <input type="text" id="address" name="address">
+                            <label class="error" id="error-address">Address is required</label>
+                        </div>
+
+                        <div class="group">
+                            <label for="nationality">Nationality</label>
+                            <select id="nationality" name="nationality">
+                                <option value="">--Select--</option>
+                            </select>
+                            <label class="error" id="error-nationality">Please select Nationality</label>
+                        </div>
+                    </div>
+
+                    <hr class="vertical-hr">
+
+                    <!-- RIGHT -->
+                    <div class="form-section">
+                        <div class="group">
+                            <label for="country">Country</label>
+                            <select id="country" name="country">
+                                <option value="">--Select--</option>
+                            </select>
+                            <label class="error" id="error-country">Please select country</label>
+                        </div>
+
+                        <div class="group">
+                            <label for="state">State</label>
+                            <select id="state" name="state">
+                                <option value="">--Select--</option>
+                            </select>
+                            <label class="error" id="error-state">Please select state</label>
+                        </div>
+
+                        <div class="group">
+                            <label for="city">City</label>
+                            <select id="city" name="city">
+                                <option value="">--Select--</option>
+                            </select>
+                            <label class="error" id="error-city">Please select city</label>
+                        </div>
+              
+                        <div class="group">
+                            <label>Gender</label>
+                            <div class="radio-group">
+                                <label><input type="radio" name="gender" value="Male"> Male</label>
+                                <label><input type="radio" name="gender" value="Female"> Female</label>
+                                <label><input type="radio" name="gender" value="Other"> Other</label>
+                                <label class="error" id="error-gender">Please select gender</label>
+                            </div>
+                        </div>
+            
+                        <div class="group">
+                            <label for="profession">Profession</label>
+                            <input type="text" id="profession" name="profession">
+                            <label class="error" id="error-profession">Profession is required</label>
+                        </div>
+            
+                        <div class="group">
+                            <label>Languages Known</label>
+                            <div class="checkbox-group">
+                                <label><input type="checkbox" id="langEnglish" name="language" value="English"> English</label>
+                                <label><input type="checkbox" id="langHindi" name="language" value="Hindi"> Hindi</label>
+                                <label><input type="checkbox" id="langMarathi" name="language" value="Marathi"> Marathi</label>
+                                <label class="error" id="error-LK">Please select any language</label>
+                            </div>
+                            </div>
+
+            
+                        <div class="group">
+                            <label>Recent Photo</label>
+                            <input type="file" id="photo" accept="image/*">
+                            <label class="error" id="error-file">Please upload your file</label>
+                            <img id="photoPreview" style="max-width:150px; margin-top:10px;" alt="Preview will appear here">
+                        </div>
+                        
+                        <div class="group">
+                            <label>About Yourself</label>
+                            <textarea id="about" rows="6" placeholder="Write a short bio..."></textarea>
+                            <label class="error" id="error-about">Write at least 50 words</label>
+                        </div>
+                    </div>                
+                </div>
+
+                <div class="btns">                
+                    <button type="submit" class="btn-submit" id="submit">Update</button>
+                    <button type="reset" class="btn-clear" onclick="window.location.href='UserData.html'">Back</button>
+                </div>
+            </form>
+        </div>
+        
+        <!-- FOOTER -->
+        <footer class="Footer">
+            <div class="Footer_Icon">
+                <ul class="footer_Icon_links">
+                    <li class="FooterListIteam"><a href="https://www.youtube.com/@cloudiofy"><img src="../Multimedia/youtube.png" alt="Youtube"></a></li>
+                    <li class="FooterListIteam"><a href="https://x.com/?lang=en"><img src="../Multimedia/Twiter.png" alt="Twitter"></a></li>
+                    <li class="FooterListIteam"><a href="https://www.instagram.com/accounts/login/?hl=en"><img src="../Multimedia/INSTA.jpeg" alt="instagram"></a></li>
+                    <li class="FooterListIteam"><a href="https://www.facebook.com/"><img src="../Multimedia/Facebook.png" alt="Facebook"></a></li>
+                </ul>
+            </div>  
+            <div class="Footer_content">
+                <ul class="footer_links">
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms and Conditions</a></li>
+                    <li><a href="#">About Us</a></li>
+                </ul>
+            </div>  
+            <hr>
+            <p>&copy; User Management Project. All rights reserved.</p>          
+        </footer>
+    </div>
+</body>
+</html>
